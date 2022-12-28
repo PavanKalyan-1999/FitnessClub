@@ -1,0 +1,81 @@
+*
+{
+    padding:0px;
+    margin:0px;
+    background-color: #1f212d;
+}
+.color_change
+{
+    margin-right: 25px;
+}
+.img_adjust
+{
+    width:400px;
+    height:400px;
+    filter: drop-shadow(-15px -15px rgb(40, 93, 207));
+}
+.main_sec
+{
+    padding:40px 0px 40px 0px;
+}
+.intro
+{
+    margin-top: 100px;
+}
+.services_sec
+{
+    padding:40px 0px 40px 0px;
+}
+.services_sec h2
+{
+    color: #285dcf;
+    font-size: 60px;
+}
+.featured_Calss_sec
+{
+    padding:40px 0px 40px 0px;
+}
+.featured_Calss_sec h2
+{
+    color: #285dcf;
+    font-size: 60px;
+}
+.plan_sec
+{
+    padding:40px 0px 40px 0px;
+}
+.plan_sec h2
+{
+    color: #285dcf;
+    font-size: 60px;
+}
+.calculate_sec
+{
+    padding:40px 0px 40px 0px;
+}
+.calculate_sec h2
+{
+    color: #285dcf;
+    font-size: 60px;
+}
+.blogs_sec
+{
+    padding: 40px 0px 40px 0px;
+}
+.blogs_sec h2
+{
+    color: #285dcf;
+    font-size: 60px;
+}
+.blogs_sec .card
+{
+    border: none;
+}
+.join_sec
+{
+    padding: 40px 0px 40px 0px;
+}
+.footer_sec
+{
+    padding: 40px 0px 40px 0px;
+}
